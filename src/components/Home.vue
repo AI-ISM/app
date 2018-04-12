@@ -1,5 +1,5 @@
 <template>
-  <div col-md-offset-1 col-md-10>
+  <div class="col-md-offset-2 col-md-8 col-sm-offset-1 col-sm-10" >
     <!-- 轮播 -->
     <div class="section">
       <slider :slides="slides"></slider>
