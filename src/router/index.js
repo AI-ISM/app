@@ -10,8 +10,6 @@ import Question from '../components/algorithm/question'
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history',
-  base: __dirname,
   linkActiveClass: 'active',
   routes: [
     {
